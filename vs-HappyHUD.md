@@ -11,3 +11,4 @@ The following plugin has these advantages when compared to HappyHUD.
 | update | slow | **fast** |
 | remove xp text support | false | **true** |
 | relocate hotbar slot support | false | **true** |
+| easy to learn | false | **true** |
