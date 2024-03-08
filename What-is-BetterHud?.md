@@ -10,5 +10,5 @@ This plugin provides **distinct and powerful visual effects without impacting se
 ![2024_03_06_20_06_21_846](https://github.com/toxicity188/BetterHud/assets/114675706/3bef5f14-9d94-498d-95f2-c484e5cc6ef1)  
 Furthermore, this plugin offers a **robust popup system** not supported by traditional HUD plugins.  
 ![2024-03-07_231322](https://github.com/toxicity188/BetterHud/assets/114675706/da7746d2-4420-45f6-abd1-8e290319855a)  
-And all of this is **free!**
+And all of this is **free!** why don't you try this?
 
