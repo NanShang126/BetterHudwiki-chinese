@@ -5,5 +5,6 @@
 - [Step 4. Caution](https://github.com/toxicity188/BetterHud/wiki/Caution)
 
 # Tutorial
+- [Step 1. Start to make a your own HUD](https://github.com/toxicity188/BetterHud/wiki/Start-to-make-a-your-own-HUD)
 
 # Compatibility
