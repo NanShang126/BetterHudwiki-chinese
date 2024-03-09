@@ -6,5 +6,6 @@
 
 # Tutorial
 - [Step 1. Start to make a your own HUD](https://github.com/toxicity188/BetterHud/wiki/Start-to-make-a-your-own-HUD)
+- [Step 2. Display custom text](https://github.com/toxicity188/BetterHud/wiki/Display-custom-text)
 
 # Compatibility
