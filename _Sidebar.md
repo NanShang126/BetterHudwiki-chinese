@@ -8,5 +8,6 @@
 - [Step 1. Start to make a your own HUD](https://github.com/toxicity188/BetterHud/wiki/Start-to-make-a-your-own-HUD)
 - [Step 2. Display custom text](https://github.com/toxicity188/BetterHud/wiki/Display-custom-text)
 - [Step 3. Update popup](https://github.com/toxicity188/BetterHud/wiki/Update-popup)
+- [Step 4. Display mob's unique popup](https://github.com/toxicity188/BetterHud/wiki/Display-mob's-unique-popup)
 
 # Compatibility
