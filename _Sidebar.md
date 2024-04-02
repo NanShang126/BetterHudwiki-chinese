@@ -14,7 +14,7 @@
 - [images](https://github.com/toxicity188/BetterHud/wiki/images)
 - [fonts](https://github.com/toxicity188/BetterHud/wiki/fonts)
 - layout
-- hud
+- [huds](https://github.com/toxicity188/BetterHud/wiki/huds)
 - popup
 - condition
 - [placeholders](https://github.com/toxicity188/BetterHud/wiki/placeholders)
