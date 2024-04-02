@@ -91,6 +91,7 @@ more details are covered in the placeholder documentation.
 
 # type: sequence
 an animated image.
+
 works with 1 tick per photo.
 ```
 test_gif:
