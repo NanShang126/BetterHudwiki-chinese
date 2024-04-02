@@ -6,11 +6,11 @@ listener is used to create a variable bar, such as health.
 
 
 - type: single
-- type: listener
--- split
--- split-type
--- class (default)
--- class (compatible)
+>  type: listener
+- split
+- split-type
+- class (default)
+- class (compatible)
 - type: sequence
 
 # type: single
