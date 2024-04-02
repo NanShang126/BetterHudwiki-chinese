@@ -39,4 +39,6 @@ types: up, down, left, right
 
 they decrease in the direction shown in the photo below.
 
+split: 10, a total of 10 resources will be created, as shown in the photo below.
+
 ![](https://i.imgur.com/y0pyDB6.png)
