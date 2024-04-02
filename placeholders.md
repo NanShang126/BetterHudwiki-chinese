@@ -2,6 +2,7 @@
 there are PAPI that work sync and PAPI that work with async 1 tick locks.
 
 (caution)
+
 this method can cause memory leaks depending on how the plugin providing the PAPI handles it.
 
 ## sync PAPI
