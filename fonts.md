@@ -4,9 +4,11 @@ see the layouts documentation for instructions on how to use it.
 
 #how to add fonts
 1. put files with extensions like ttf and otf in the fonts folder.
+
 ![](https://i.imgur.com/C2NbdUf.png)
 
 2. create a yml file in the texts folder with a name of your choice.
+
 ![](https://i.imgur.com/r9TLnQR.png)
 
 3. enter the following
