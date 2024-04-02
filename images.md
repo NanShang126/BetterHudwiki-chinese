@@ -5,6 +5,14 @@ single is used to simply place an image and is universal.
 listener is used to create a variable bar, such as health.
 
 
+1. type: single
+2. type: listener
+> split
+> split-type
+> class (default)
+> class (compatible)
+3. type: sequence
+
 # type: single
 
 ```
