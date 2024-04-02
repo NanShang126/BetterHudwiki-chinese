@@ -14,6 +14,7 @@ image_id:
 ```
 you can load the example.png folder in the assets folder with the id named image_id.
 
+
 ## listener
 ```
 health_bar:
@@ -29,7 +30,6 @@ health_bar:
 ### split
 
 more you split, the more detail you can display, but it also increases the resource pack capacity.
-
 
 ### split-type
 
