@@ -7,14 +7,16 @@ listener is used to create a variable bar, such as health.
 
 ## single
 
-```image_id:
+```
+image_id:
   type: single
   file: "example.png"
 ```
 you can load the example.png folder in the assets folder with the id named image_id.
 
 ## listener
-```health_bar:
+```
+health_bar:
   type: listener
   file: "example.png"
   split: 10
