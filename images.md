@@ -37,7 +37,7 @@ health_bar:
 
 ## split
 
-more you split, the more detail you can display, but it also increases the resource pack capacity.
+more you split, the more detail you can display, but it also increases the resourcepack capacity.
 
 split: 10, a total of 10 resources will be created, as shown in the photo below.
 
