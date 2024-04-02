@@ -11,7 +11,8 @@ listener is used to create a variable bar, such as health.
 outline_left:
   type: single
   file: "hud_left.png"
-***11
+***
+11
 
 
 
