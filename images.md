@@ -12,7 +12,7 @@ image_id:
   type: single
   file: "example.png"
 ```
-you can load the example.png in the assets folder with the id named image_id.
+you can load the example.png file with the id named 'image_id' in the assets folder.
 ![](https://i.imgur.com/WZUoAZR.png)
 
 # listener
