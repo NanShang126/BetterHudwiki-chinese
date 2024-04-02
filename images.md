@@ -37,4 +37,4 @@ types: up, down, left, right
 
 they decrease in the direction shown in the photo below.
 
-![](https://i.imgur.com/C55jLO2.png)
+![](https://i.imgur.com/y0pyDB6.png)
