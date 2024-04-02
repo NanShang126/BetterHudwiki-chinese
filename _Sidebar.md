@@ -10,4 +10,11 @@
 - [Step 3. Update popup](https://github.com/toxicity188/BetterHud/wiki/Update-popup)
 - [Step 4. Display mob's unique popup](https://github.com/toxicity188/BetterHud/wiki/Display-mob's-unique-popup)
 
-# Compatibility
+# Features
+- [images](https://github.com/toxicity188/BetterHud/wiki/images)
+- font
+- layout
+- hud
+- popup
+- placeholder
+- head
