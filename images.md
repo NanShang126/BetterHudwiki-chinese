@@ -5,13 +5,13 @@ single is used to simply place an image and is universal.
 listener is used to create a variable bar, such as health.
 
 
-- type: single
-  -  type: listener
-- split
-- split-type
-- class (default)
-- class (compatible)
-- type: sequence
+- [type: single](https://github.com/toxicity188/BetterHud/wiki/images#type-single)
+- [type: listener](https://github.com/toxicity188/BetterHud/wiki/images#type-listener)
+  - [split](https://github.com/toxicity188/BetterHud/wiki/images#split)
+  - [split-type](https://github.com/toxicity188/BetterHud/wiki/images#split-type)
+  - [class (default)](https://github.com/toxicity188/BetterHud/wiki/images#class-default)
+  - [class (compatible)](https://github.com/toxicity188/BetterHud/wiki/images#class-compatible)
+- [type: sequence](https://github.com/toxicity188/BetterHud/wiki/images#type-sequence)
 
 # type: single
 
