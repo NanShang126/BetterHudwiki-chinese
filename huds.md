@@ -25,7 +25,11 @@ this is why the position of the hud sometimes changes depending on the GUI scale
 ![](https://i.imgur.com/Fu63YuN.png)![](https://i.imgur.com/EWKyXDN.png)
 
 this issue is caused by the hud not scaling proportionally when changing the GUI scale.
-therefore, if you want to place them in direct proportion to the GUI scale, you should use the coordinates of the HUD as 0,50,100 to reference only the end and center positions.
+
+therefore, if you want to place them in direct proportion to the GUI scale, 
+
+you should use the coordinates of the HUD as 0,50,100 to reference only the end and center positions.
+
 recommend that you then adjust the coordinates in your layout.
 ![](https://i.imgur.com/QSfciQJ.jpeg)
 
