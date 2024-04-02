@@ -84,6 +84,7 @@ health_bar:
 3. max is maximum value
 
 PAPI is a string by default, so you need to prefix it with (number)
-You can also just enter a number.
-```ex. max: 1000```
+
+You can also just enter a number. ```max: 1000```
+
 more details are covered in the placeholder documentation.
