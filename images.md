@@ -55,7 +55,6 @@ absorption
 placeholder (details below)
 ```
 
-
 ### class (compatible)
 compatible plugins listeners
 ```
@@ -64,3 +63,7 @@ mmocore_stamina
 mmocore_stellium
 mmocore_experience
 ```
+
+
+## placeholder listener
+12
