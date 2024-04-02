@@ -6,7 +6,7 @@ listener is used to create a variable bar, such as health.
 
 
 - type: single
---  type: listener
+- -  type: listener
 - split
 - split-type
 - class (default)
