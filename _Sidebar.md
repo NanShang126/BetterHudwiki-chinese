@@ -12,7 +12,7 @@
 
 # Features
 - [images](https://github.com/toxicity188/BetterHud/wiki/images)
-- font
+- [fonts](https://github.com/toxicity188/BetterHud/wiki/fonts)
 - layout
 - hud
 - popup
