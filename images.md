@@ -26,9 +26,12 @@ health_bar:
       class: health
 ```
 
-split
+###split
+
 more you split, the more detail you can display, but it also increases the resource pack capacity.
 
-split-type
+###split-type
+
 up, down, left, right
+
 ![](https://i.imgur.com/C55jLO2.png)
