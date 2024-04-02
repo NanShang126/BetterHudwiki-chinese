@@ -5,7 +5,7 @@ single is used to simply place an image and is universal.
 listener is used to create a variable bar, such as health.
 
 
-# single
+# type: single
 
 ```
 image_id:
@@ -15,7 +15,7 @@ image_id:
 you can load the example.png file with the id named 'image_id' in the assets folder.
 ![](https://i.imgur.com/WZUoAZR.png)
 
-# listener
+# type: listener
 ```
 health_bar:
   type: listener
@@ -88,3 +88,23 @@ PAPI is a string by default, so you need to prefix it with (number)
 you can also just enter a number. ```max: 1000```
 
 more details are covered in the placeholder documentation.
+
+# type: sequence
+an animated image.
+works with 1 tick per photo.
+```
+test_gif:
+  type: sequence
+  files:
+    - test/test_00000.png
+    - test/test_00001.png
+    - test/test_00002.png
+    - test/test_00003.png
+    - test/test_00004.png
+    - test/test_00005.png
+    - test/test_00006.png
+    - test/test_00007.png
+    - test/test_00008.png
+    - test/test_00009.png
+    - test/test_00010.png
+```
