@@ -17,5 +17,5 @@
 - hud
 - popup
 - condition
-- placeholder
+- [placeholder](https://github.com/toxicity188/BetterHud/wiki/placeholders)
 - head
