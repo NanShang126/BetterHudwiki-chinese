@@ -34,7 +34,9 @@ recommend that you then adjust the coordinates in your layout.
 ![](https://i.imgur.com/QSfciQJ.jpeg)
 
 here is the file modified using the built-in hud.
+
 default-hud.yml
+
 ```
 test_hud:
   layouts:
