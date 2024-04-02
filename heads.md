@@ -5,6 +5,6 @@ create a yml file in your heads folder and enter it like this.
 
 ![](https://i.imgur.com/4OA5xp8.png)
 
-put it on the layout or hud, whichever you prefer.
+put it on the layout.
 
 ![](https://i.imgur.com/Ric4q9Y.png)
