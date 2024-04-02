@@ -30,8 +30,11 @@ health_bar:
 
 more you split, the more detail you can display, but it also increases the resource pack capacity.
 
+
 ### split-type
 
 types: up, down, left, right
+
 they decrease in the direction shown in the photo below.
+
 ![](https://i.imgur.com/C55jLO2.png)
