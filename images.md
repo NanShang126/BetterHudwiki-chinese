@@ -24,3 +24,10 @@ health_bar:
   setting:
     listener:
       class: health```
+
+split
+more you split, the more detail you can display, but it also increases the resource pack capacity.
+
+split-type
+up, down, left, right
+![](https://imgur.com/a/t4pgRxJ)
