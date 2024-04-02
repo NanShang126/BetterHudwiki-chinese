@@ -31,6 +31,8 @@ health_bar:
 
 more you split, the more detail you can display, but it also increases the resource pack capacity.
 
+split: 10, a total of 10 resources will be created, as shown in the photo below.
+
 ![12](https://i.imgur.com/RCK4jbq.png)
 
 ### split-type
@@ -38,7 +40,5 @@ more you split, the more detail you can display, but it also increases the resou
 types: up, down, left, right
 
 they decrease in the direction shown in the photo below.
-
-split: 10, a total of 10 resources will be created, as shown in the photo below.
 
 ![](https://i.imgur.com/y0pyDB6.png)
