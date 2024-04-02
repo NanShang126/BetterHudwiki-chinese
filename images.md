@@ -42,3 +42,25 @@ types: up, down, left, right
 they decrease in the direction shown in the photo below.
 
 ![](https://i.imgur.com/y0pyDB6.png)
+
+### class (default)
+built-in listeners
+```
+health
+food
+armor
+air
+exp
+absorption
+placeholder (details below)
+```
+
+
+### class (compatible)
+compatible plugins listeners
+```
+mmocore_mana
+mmocore_stamina
+mmocore_stellium
+mmocore_experience
+```
