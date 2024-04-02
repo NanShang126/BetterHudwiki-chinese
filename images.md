@@ -66,4 +66,24 @@ mmocore_experience
 
 
 ## placeholder listener
-12
+if you don't find what you're looking for, you can still create custom listeners using the PAPI.
+```
+health_bar:
+  type: listener
+  file: "example.png"
+  split: 10
+  split-type: up
+  setting:
+    listener:
+      class: placeholder
+      value: "(number)papi:mmocore_health"
+      max: "(number)papi:mmocore_max_health"
+```
+1. class as a placeholder
+2. value is current value
+3. max is maximum value
+
+PAPI is a string by default, so you need to prefix it with (number)
+You can also just enter a number.
+```ex. max: 1000```
+more details are covered in the placeholder documentation.
