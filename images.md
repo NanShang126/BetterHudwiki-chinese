@@ -6,11 +6,11 @@ listener is used to create a variable bar, such as health.
 
 
 # single
-`outline_left:`
+outline_left:
+  type: single
+  file: "hud_left.png"
+***
 
-`  type: single`
-
-`  file: "hud_left.png"`
 
 
 ## test
