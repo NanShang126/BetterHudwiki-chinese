@@ -1,3 +1,15 @@
+- [Common Options](https://github.com/toxicity188/BetterHud/wiki/layouts#common-options)
+  - [scale](https://github.com/toxicity188/BetterHud/wiki/layouts#scale)
+  - [layer](https://github.com/toxicity188/BetterHud/wiki/layouts#layer)
+  - [x,y coordinates](https://github.com/toxicity188/BetterHud/wiki/layouts#xy-coordinates)
+- [images layout](https://github.com/toxicity188/BetterHud/wiki/layouts#images-layout)
+- [texts layout]https://github.com/toxicity188/BetterHud/wiki/layouts#texts-layout
+  - [name](https://github.com/toxicity188/BetterHud/wiki/layouts#name)
+  - [pattern](https://github.com/toxicity188/BetterHud/wiki/layouts#pattern)
+  - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
+  - [outline](https://github.com/toxicity188/BetterHud/wiki/layouts#outline)
+- [heads layout](https://github.com/toxicity188/BetterHud/wiki/layouts#heads-layout)
+
 layout is a grouping of text and images.
 
 it can be used in a hud or popup and has three different layouts.
