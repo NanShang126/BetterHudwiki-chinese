@@ -55,7 +55,7 @@ ex.
 image_layout:
   images:
     1:
-      name: example
+      name: image_id
       scale: 0.5
       x: 5
       y: 10
@@ -67,5 +67,27 @@ load the images you set in the [images](https://github.com/toxicity188/BetterHud
 only common options exist.
 
 # texts layout
+```
+text_layout:
+  texts:
+    1:
+      name: example_font
+      pattern: "Lv. [mmocore_level]"
+      align: center
+      x: 10
+      y: -10
+      scale: 0.5
+      outline: true
+```
+## name
+specifies the [font](https://github.com/toxicity188/BetterHud/wiki/fonts) to use.
+
+font is named `example_font` if you follow the documentation.
+
+if not specified, the default font is used.
+
+## pattern
+## align
+## outline
 
 # heads layout
