@@ -128,3 +128,24 @@ ex. `outline: true`
 
 # heads layout
 [heads](https://github.com/toxicity188/BetterHud/wiki/heads)
+
+# animations
+animations can basically be organized by math formulas and use the exp4j library.
+
+see the links below for more math formula wikis.
+
+https://redmine.riddler.com.ar/projects/exp4j/wiki
+
+use 't' as a parameter.
+
+this example is an animation that moves up and down.
+```
+example_layout:
+  images:
+    1:
+      name: image_id
+  animations:
+    duration: 60
+    x-equation: 0
+    y-equation: 3cos(t/30 * pi)
+```
