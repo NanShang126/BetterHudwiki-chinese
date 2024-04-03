@@ -1,12 +1,10 @@
-# layout
-
 layout is a grouping of text and images.
 
 it can be used in a hud or popup and has three different layouts.
 
 ![](https://i.imgur.com/ajoZlxb.png)
 
-## scale
+# scale
 
 
 ## images layout
