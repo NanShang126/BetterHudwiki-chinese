@@ -2,12 +2,46 @@ layout is a grouping of text and images.
 
 it can be used in a hud or popup and has three different layouts.
 
+here's a rough idea of the structure.
+
 ![](https://i.imgur.com/ajoZlxb.png)
 
-# scale
+# Common Options
+```
+layout:
+  y: -5
+  x: 5
+  images:
+    1:
+      name: example
+      x: 10
+      y: -10
+      scale: 0.5
+      layer: 1
+```
+## scale
+applies to images and text.
 
+you can increase and decrease the size.
 
-## images layout
+ex. `scale: 0.5`
+
+## layer
+priority to display when overlapping.
+
+higher the number, the higher the priority.
+
+ex. `layer: 1`
+
+## x,y coordinates
+coordinates of the layout can be moved in pixels.
+you can move the entire layout or customize it individually.
+
+ex.
+`x: 10`
+`y: -10`
+
+# images layout
 
 ```
 image_layout:
@@ -20,6 +54,6 @@ image_layout:
 ```
 
 
-## texts layout
+# texts layout
 
-## heads layout
+# heads layout
