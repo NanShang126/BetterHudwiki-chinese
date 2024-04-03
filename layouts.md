@@ -59,8 +59,12 @@ image_layout:
       scale: 0.5
       x: 5
       y: 10
+    2:
+    ...
 ```
+load the images you set in the [images](https://github.com/toxicity188/BetterHud/wiki/images#type-single) folder.
 
+only common options exist.
 
 # texts layout
 
