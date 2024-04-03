@@ -86,8 +86,23 @@ font is named `example_font` if you follow the documentation.
 
 if not specified, the default font is used.
 
+ex. `name: example_font`
+
 ## pattern
+define the text to display.
+
+[PAPI](https://github.com/toxicity188/BetterHud/wiki/placeholders) can be used, and can be mixed with plain text.
+
+ex. `pattern: "Lv. [mmocore_level]"`
+
 ## align
+this refers to how the text should be aligned.
+
+types: left, center, right
+
+![](https://i.imgur.com/SJZ1sBv.png)
+
 ## outline
+
 
 # heads layout
