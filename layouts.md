@@ -112,3 +112,4 @@ ex. `outline: true`
 ![](https://i.imgur.com/z2YJjyX.png)
 
 # heads layout
+[heads](https://github.com/toxicity188/BetterHud/wiki/heads)
