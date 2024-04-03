@@ -24,6 +24,8 @@ applies to images and text.
 
 you can increase and decrease the size.
 
+default : 1
+
 ex. `scale: 0.5`
 
 ## layer
@@ -31,14 +33,19 @@ priority to display when overlapping.
 
 higher the number, the higher the priority.
 
+default : 0
+
 ex. `layer: 1`
 
 ## x,y coordinates
 coordinates of the layout can be moved in pixels.
 you can move the entire layout or customize it individually.
 
+default : 0
 ex.
+
 `x: 10`
+
 `y: -10`
 
 # images layout
