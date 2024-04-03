@@ -100,9 +100,15 @@ this refers to how the text should be aligned.
 
 types: left, center, right
 
+ex. `align: center`
+
 ![](https://i.imgur.com/SJZ1sBv.png)
 
 ## outline
+whether or not to put a drop shadow on the text.
 
+ex. `outline: true`
+
+![](https://i.imgur.com/z2YJjyX.png)
 
 # heads layout
