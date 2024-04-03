@@ -17,7 +17,7 @@ it can be used in a hud or popup and has three different layouts.
 
 here's a rough idea of the structure.
 
-![](https://i.imgur.com/ajoZlxb.png)
+![](https://i.imgur.com/Uttt8Ad.png)
 
 (can put conditions on almost any element.)
 
