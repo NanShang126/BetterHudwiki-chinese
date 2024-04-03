@@ -9,6 +9,7 @@
   - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
   - [outline](https://github.com/toxicity188/BetterHud/wiki/layouts#outline)
 - [heads layout](https://github.com/toxicity188/BetterHud/wiki/layouts#heads-layout)
+- [animations](https://github.com/toxicity188/BetterHud/wiki/layouts#animations)
 
 layout is a grouping of text and images.
 
