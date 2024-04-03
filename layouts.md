@@ -42,6 +42,7 @@ coordinates of the layout can be moved in pixels.
 you can move the entire layout or customize it individually.
 
 default : 0
+
 ex.
 
 `x: 10`
