@@ -2,10 +2,6 @@ layout is a grouping of text and images.
 
 it can be used in a hud or popup and has three different layouts.
 
-here's a rough idea of the structure.
-
-![](https://i.imgur.com/ajoZlxb.png)
-
 - [Common Options](https://github.com/toxicity188/BetterHud/wiki/layouts#common-options)
   - [scale](https://github.com/toxicity188/BetterHud/wiki/layouts#scale)
   - [layer](https://github.com/toxicity188/BetterHud/wiki/layouts#layer)
@@ -17,6 +13,11 @@ here's a rough idea of the structure.
   - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
   - [outline](https://github.com/toxicity188/BetterHud/wiki/layouts#outline)
 - [heads layout](https://github.com/toxicity188/BetterHud/wiki/layouts#heads-layout)
+
+here's a rough idea of the structure.
+
+![](https://i.imgur.com/ajoZlxb.png)
+
 
 # Common Options
 ```
