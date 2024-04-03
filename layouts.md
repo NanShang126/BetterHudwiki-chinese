@@ -3,7 +3,7 @@
   - [layer](https://github.com/toxicity188/BetterHud/wiki/layouts#layer)
   - [x,y coordinates](https://github.com/toxicity188/BetterHud/wiki/layouts#xy-coordinates)
 - [images layout](https://github.com/toxicity188/BetterHud/wiki/layouts#images-layout)
-- [texts layout]https://github.com/toxicity188/BetterHud/wiki/layouts#texts-layout
+- [texts layout](https://github.com/toxicity188/BetterHud/wiki/layouts#texts-layout)
   - [name](https://github.com/toxicity188/BetterHud/wiki/layouts#name)
   - [pattern](https://github.com/toxicity188/BetterHud/wiki/layouts#pattern)
   - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
