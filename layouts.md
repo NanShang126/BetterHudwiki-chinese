@@ -107,6 +107,8 @@ ex. `align: center`
 ## outline
 whether or not to put a drop shadow on the text.
 
+if text is on top of an image, you can't show a drop shadow.
+
 ex. `outline: true`
 
 ![](https://i.imgur.com/z2YJjyX.png)
