@@ -16,7 +16,7 @@
 - [heads](https://github.com/toxicity188/BetterHud/wiki/heads)
 - [placeholders](https://github.com/toxicity188/BetterHud/wiki/placeholders)
 - [operations](https://github.com/toxicity188/BetterHud/wiki/operations)
-- conditions
+- [conditions](https://github.com/toxicity188/BetterHud/wiki/conditions)
 - [layouts](https://github.com/toxicity188/BetterHud/wiki/layouts)
 - [huds](https://github.com/toxicity188/BetterHud/wiki/huds)
 - popups
