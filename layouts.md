@@ -9,6 +9,7 @@
   - [pattern](https://github.com/toxicity188/BetterHud/wiki/layouts#pattern)
   - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
   - [outline](https://github.com/toxicity188/BetterHud/wiki/layouts#outline)
+  - [deserialize-text](https://github.com/toxicity188/BetterHud/wiki/layouts#deserialize-text)
 - [heads layout](https://github.com/toxicity188/BetterHud/wiki/layouts#heads-layout)
 - [animations](https://github.com/toxicity188/BetterHud/wiki/layouts#animations)
 
