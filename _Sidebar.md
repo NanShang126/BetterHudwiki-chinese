@@ -15,7 +15,7 @@
 - [fonts](https://github.com/toxicity188/BetterHud/wiki/fonts)
 - [heads](https://github.com/toxicity188/BetterHud/wiki/heads)
 - [placeholders](https://github.com/toxicity188/BetterHud/wiki/placeholders)
-- operations
+- [operations](https://github.com/toxicity188/BetterHud/wiki/operations)
 - conditions
 - [layouts](https://github.com/toxicity188/BetterHud/wiki/layouts)
 - [huds](https://github.com/toxicity188/BetterHud/wiki/huds)
