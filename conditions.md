@@ -35,7 +35,7 @@ in this case, the papi in first is not prefixed with (number), so it is a string
 
 and if you put `second: 1`, it will be recognized as a number, so you will get an error.
 
-
+(vice versa)
 
 ## PAPI format
 ```
