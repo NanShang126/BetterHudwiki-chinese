@@ -95,6 +95,7 @@ text_layout:
       y: -10
       scale: 0.5
       outline: true
+      deserialize-text: true
 ```
 ## name
 specifies the [font](https://github.com/toxicity188/BetterHud/wiki/fonts) to use.
@@ -148,6 +149,11 @@ if text is on top of an image, you can't show a drop shadow.
 ex. `outline: true`
 
 ![](https://i.imgur.com/z2YJjyX.png)
+
+## deserialize-text
+this is an option to rework and colorize when color codes are injected from external elements, such as PAPI, for example.
+
+default: `false`
 
 # heads layout
 [heads](https://github.com/toxicity188/BetterHud/wiki/heads)
