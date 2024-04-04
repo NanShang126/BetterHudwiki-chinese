@@ -155,11 +155,8 @@ ex. `outline: true`
 # animations
 animations can basically be organized by math formulas and use the exp4j library.
 
-see the links below for more math formula wikis.
+[operations documentation](https://github.com/toxicity188/BetterHud/wiki/operations)
 
-https://redmine.riddler.com.ar/projects/exp4j/wiki
-
-use 't' as a parameter.
 
 this example is an animation that moves up and down.
 ```
