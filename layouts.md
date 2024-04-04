@@ -87,6 +87,7 @@ text_layout:
   texts:
     1:
       name: example_font
+      number-format: "#,###.#"
       pattern: "Lv. [mmocore_level]"
       align: center
       x: 10
@@ -109,6 +110,15 @@ define the text to display.
 [PAPI](https://github.com/toxicity188/BetterHud/wiki/placeholders) can be used, and can be mixed with plain text.
 
 ex. `pattern: "Lv. [mmocore_level]"`
+
+and you can add color and text formatting.
+
+color type : <#hex>, <black>, <gold>, <gray>, <blue>, <green>, <aqua>, <red>, <yellow>, <white>
+format type : bold <b>, obfuscated <obf>
+
+![](https://i.imgur.com/rBn9ONM.png)
+
+![](https://i.imgur.com/SEFS5XA.png)
 
 ## align
 this refers to how the text should be aligned.
