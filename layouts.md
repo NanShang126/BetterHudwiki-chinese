@@ -106,7 +106,7 @@ if not specified, the default font is used.
 ex. `name: example_font`
 
 ## number-format
-set the number format.
+automatically find and format numbers, even if they're mixed with text.
 
 DecimalFormat, see the wiki for more information.
 
