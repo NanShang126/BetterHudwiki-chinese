@@ -5,6 +5,7 @@
 - [images layout](https://github.com/toxicity188/BetterHud/wiki/layouts#images-layout)
 - [texts layout](https://github.com/toxicity188/BetterHud/wiki/layouts#texts-layout)
   - [name](https://github.com/toxicity188/BetterHud/wiki/layouts#name)
+  - [number-format](https://github.com/toxicity188/BetterHud/wiki/layouts#number-format)
   - [pattern](https://github.com/toxicity188/BetterHud/wiki/layouts#pattern)
   - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
   - [outline](https://github.com/toxicity188/BetterHud/wiki/layouts#outline)
