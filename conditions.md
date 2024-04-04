@@ -45,4 +45,4 @@ and if you put `second: 1`, it will be recognized as a number, so you will get a
           second: "'1'"
           operation: '=='
 ```
-don't use [] in conditions.
+don't use [] when using PAPI in conditions.
