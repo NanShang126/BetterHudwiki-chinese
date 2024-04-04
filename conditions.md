@@ -11,6 +11,8 @@ layout:
 ```
 can use it almost anywhere: images, layouts (text layout, image layout), popups, huds, etc.
 
+displayed when the condition is met.
+
 # operation
 types: '>', '>=', '<', '<=', '==', '!='
 
