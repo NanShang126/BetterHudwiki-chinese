@@ -104,6 +104,15 @@ if not specified, the default font is used.
 
 ex. `name: example_font`
 
+## number-format
+set the number format.
+
+DecimalFormat, see the wiki for more information.
+
+https://docs.oracle.com/javase/8/docs/api/java/text/DecimalFormat.html
+
+default : config.yml - `number-format: "#,###.#"`
+
 ## pattern
 define the text to display.
 
