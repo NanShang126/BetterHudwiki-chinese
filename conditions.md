@@ -28,4 +28,6 @@ To compare numeric text when it's a string, you need to use something like "'1'"
           operation: '=='
 ```
 
-In this case, the papi in first is not prefixed with (number), so it is a string type, and if you put `second: 1`, it will be recognized as a number, so you will get an error.
+In this case, the papi in first is not prefixed with (number), so it is a string type,
+
+and if you put `second: 1`, it will be recognized as a number, so you will get an error.
