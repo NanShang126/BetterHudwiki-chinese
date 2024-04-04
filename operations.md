@@ -16,8 +16,10 @@ use 't' as a parameter.
 
 It is primarily used by [PAPI](https://github.com/toxicity188/BetterHud/wiki/placeholders), and examples of how it is used include
 
-ex. [player_health@t * 2]
+ex. `[player_health@t * 2]`
+
 The value of player_health is defined as t, which in this example would be 40 if the original health was 20.
 
 when used as a PAPI variable, it is of type string, so it needs to be defined as type number.
-ex. [(number)papi:player_x@t * 2]
+
+ex. `[(number)papi:player_x@t * 2]`
