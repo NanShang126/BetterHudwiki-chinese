@@ -114,6 +114,7 @@ ex. `pattern: "Lv. [mmocore_level]"`
 and you can add color and text formatting.
 
 color type : `<#hex>, <black>, <gold>, <gray>, <blue>, <green>, <aqua>, <red>, <yellow>, <white>`
+
 format type : `bold <b>, obfuscated <obf>`
 
 ![](https://i.imgur.com/rBn9ONM.png)
