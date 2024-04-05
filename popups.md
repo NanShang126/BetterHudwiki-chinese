@@ -92,7 +92,7 @@ for example, if you simply want to offset to the right by 20 pixels, you can do 
 
 To do something like this photo 
 ```
-buff_absorption:
+buff_name:
   group: buff
   layouts:
     1:
