@@ -32,7 +32,7 @@ waiting popups will also have a reduced duration. to prevent this, the following
 
 ### always-check-condition
 
-feature is true, waiting popups will not decrease in duration.
+`always-check-condition: true`, waiting popups will not decrease in duration.
 
 ![](https://i.imgur.com/0wdOKLs.png)
 
