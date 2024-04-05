@@ -14,6 +14,8 @@ ex. `group: skill`
 
 
 ## queue
+whether to save out-of-queue popups
+
 default: `false`
 
 By default, when set to `move.duration: 4`, popups can only be displayed for a maximum of four,
@@ -34,7 +36,11 @@ waiting popups will also have a reduced duration. to prevent this, the following
 
 ### always-check-condition
 
-`always-check-condition: true`, waiting popups will not decrease in duration.
+whether popups outside of the queue should also have animated ticks.
+
+default: `true`
+
+`always-check-condition: false`, waiting popups will not decrease in duration.
 
 ![](https://i.imgur.com/0wdOKLs.png)
 
