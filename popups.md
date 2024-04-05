@@ -46,16 +46,42 @@ default: `true`
 
 ## sort
 
+options for how you want to arrange the popups.
+
+default: `last`
+
+`sort: first` is performed in a stack fashion,
+
+`sort: last` is performed using queue fashion.
+
+![](https://i.imgur.com/BMJOFP5.png)
+
 ## duration
+determine the duration of the popup.
+
+the unit is tick and will last indefinitely if not entered.
+
+default: `0` (infinite)
 
 ## key-mapping
+mapping popups with a specific key as the unique key.
+
+this is needed, for example, to display the health bar of an entity or another player.
+
+default: `false`
 
 ## x,y coord
+in the same way as the hud, you define where to divide the player screen into percentages.
 
 ## move
+set rules for placing popups when displaying multiple popups.
 
 ### duration
+maximum number of popups you want to display on the screen.
 
 ## pixel
+define how it should be moved pixel by pixel in the same way as layout.
 
 ### x,y-equation
+
+it has a very close relationship with the [operations documentation](https://github.com/toxicity188/BetterHud/wiki/operations)
