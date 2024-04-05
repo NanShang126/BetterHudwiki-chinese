@@ -79,6 +79,14 @@ in the same way as the hud, you define where to divide the player screen into pe
 # move
 set rules for placing popups when displaying multiple popups.
 
+```
+  move:
+    duration: 3
+    pixel:
+      x-equation: 0
+      y-equation: 20t
+```
+
 ## duration
 maximum number of popups you want to display on the screen.
 
