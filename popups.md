@@ -10,7 +10,9 @@
   - [duration](https://github.com/toxicity188/BetterHud/wiki/popups#duration-1)
   - [pixel](https://github.com/toxicity188/BetterHud/wiki/popups#pixel)
 
-
+popups are extremely extensible.
+it's not a lie to say that almost every deep functionality you can think of comes from popups.
+buff icons, skill HUDs, etc.
 
 ```
 monster_health:
