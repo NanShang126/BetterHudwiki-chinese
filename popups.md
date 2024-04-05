@@ -100,9 +100,9 @@ buff_name:
       x: 90
       y: 10
   move:
-    duration: 9
+    duration: 33
     pixel:
       x-equation: -floor((t - 1) / 8) * 40
       y-equation: (((t - 1) % 8) + 1) * 40
  ```
-it goes something like this
+in this way, some math knowledge is required.
