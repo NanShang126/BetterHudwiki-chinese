@@ -1,3 +1,28 @@
+```
+```
+monster_health:
+  triggers:
+    1:
+      class: entity_attack
+  group: mob_group
+  queue: true # default: false
+  always-check-condition: false # default: true
+  sort: first # types: last/first , default: last
+  duration: 60 #tick
+  key-mapping: true #default: false
+  x: 10
+  y: 35
+  move:
+    duration: 3
+    pixel:
+      x-equation: 0
+      y-equation: 20t
+  layouts:
+    1:
+      name: monster_health
+```
+```
+
 There are several ways to run a popup.
 1. run it as a command
 2. register it in config.yml as a default-popup to display the popup when a condition is met. (in this case, you should not set a duration.)
