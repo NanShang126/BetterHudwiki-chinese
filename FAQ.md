@@ -7,6 +7,7 @@ Q. if the bossbar for enderdragon or wither pops up, the hud is out of alignment
 A. config.yml `merge-boss-bar: false`. this is a specialized bossbar and cannot be resolved.
 
 Q. hud doesn't appear
+
 ![](https://i.imgur.com/5F0IrKW.png)
 
 A. No resourcepack were applied.
