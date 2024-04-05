@@ -3,10 +3,10 @@ There are several ways to run a popup.
 2. register it in config.yml as a default-popup to display the popup when a condition is met. (in this case, you should not set a duration.)
 3. can use a trigger
 
-## triggers
+# triggers
 
 
-## group
+# group
 create multiple popups as a group.
 
 default: `none`
@@ -16,7 +16,7 @@ ex. `group: skill`
 ![](https://i.imgur.com/jvkTS02.png)
 
 
-## queue
+# queue
 whether to save out-of-queue popups
 
 default: `false`
@@ -37,7 +37,7 @@ will still see up to four popups, but will start to see a fifth popup after the 
 
 waiting popups will also have a reduced duration. to prevent this, the following options are used
 
-### always-check-condition
+## always-check-condition
 
 whether popups outside of the queue should also have animated ticks.
 
@@ -47,7 +47,7 @@ default: `true`
 
 ![](https://i.imgur.com/0wdOKLs.png)
 
-## sort
+# sort
 
 options for how you want to arrange the popups.
 
@@ -59,33 +59,31 @@ default: `last`
 
 ![](https://i.imgur.com/BMJOFP5.png)
 
-## duration
+# duration
 determine the duration of the popup.
 
 the unit is tick and will last indefinitely if not entered.
 
 default: `0` (infinite)
 
-## key-mapping
+# key-mapping
 mapping popups with a specific key as the unique key.
 
 this is needed, for example, to display the health bar of an entity or another player.
 
 default: `false`
 
-## x,y coord
+# x,y coord
 in the same way as the hud, you define where to divide the player screen into percentages.
 
-## move
+# move
 set rules for placing popups when displaying multiple popups.
 
-### duration
+## duration
 maximum number of popups you want to display on the screen.
 
 ## pixel
 define how it should be moved pixel by pixel in the same way as layout.
-
-### x,y-equation
 
 it has a very close relationship with the [operations documentation](https://github.com/toxicity188/BetterHud/wiki/operations)
 
