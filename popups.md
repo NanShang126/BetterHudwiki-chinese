@@ -14,7 +14,7 @@ popups are extremely extensible.
 
 it's not a lie to say that almost every deep functionality you can think of comes from popups.
 
-buff icons, skill HUDs, etc.
+buff icon, skill hud, etc.
 
 ```
 monster_health:
