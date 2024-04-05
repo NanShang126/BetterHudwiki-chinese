@@ -85,3 +85,24 @@ define how it should be moved pixel by pixel in the same way as layout.
 ### x,y-equation
 
 it has a very close relationship with the [operations documentation](https://github.com/toxicity188/BetterHud/wiki/operations)
+
+for example, if you simply want to offset to the right by 20 pixels, you can do something like 'x-equation: 20t'
+
+![](https://github.com/toxicity188/BetterHud/assets/114675706/3bef5f14-9d94-498d-95f2-c484e5cc6ef1)
+
+To do something like this photo 
+```
+buff_absorption:
+  group: buff
+  layouts:
+    1:
+      name: buff_name
+      x: 90
+      y: 10
+  move:
+    duration: 9
+    pixel:
+      x-equation: -floor((t - 1) / 8) * 40
+      y-equation: (((t - 1) % 8) + 1) * 40
+ ```
+it goes something like this
