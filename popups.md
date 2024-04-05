@@ -1,5 +1,4 @@
 ```
-```
 monster_health:
   triggers:
     1:
@@ -20,7 +19,6 @@ monster_health:
   layouts:
     1:
       name: monster_health
-```
 ```
 
 There are several ways to run a popup.
