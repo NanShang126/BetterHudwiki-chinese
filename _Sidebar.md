@@ -19,4 +19,4 @@
 - [conditions](https://github.com/toxicity188/BetterHud/wiki/conditions)
 - [layouts](https://github.com/toxicity188/BetterHud/wiki/layouts)
 - [huds](https://github.com/toxicity188/BetterHud/wiki/huds)
-- popups
+- [popups](https://github.com/toxicity188/BetterHud/wiki/popups)
