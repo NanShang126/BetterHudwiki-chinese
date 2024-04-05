@@ -14,6 +14,8 @@ ex. `group: skill`
 
 
 ## queue
+default: `false`
+
 By default, when set to `move.duration: 4`, popups can only be displayed for a maximum of four,
 
 and any further requests for popups will be ignored due to lack of space.
