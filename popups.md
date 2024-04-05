@@ -1,6 +1,7 @@
 There are several ways to run a popup.
 1. run it as a command
-2. register it in config.yml as a default-popup to display the popup when a condition is met. in this case, you should not set a duration.
+2. register it in config.yml as a default-popup to display the popup when a condition is met.
+in this case, you should not set a duration.
 3. can use a trigger
 
 ## triggers
