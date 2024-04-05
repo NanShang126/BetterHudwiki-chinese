@@ -1,3 +1,16 @@
+- [triggers](https://github.com/toxicity188/BetterHud/wiki/popups#triggers)
+- [group](https://github.com/toxicity188/BetterHud/wiki/popups#group)
+- [queue](https://github.com/toxicity188/BetterHud/wiki/popups#queue)
+  - [always-check-condition](https://github.com/toxicity188/BetterHud/wiki/popups#always-check-condition)
+- [sort](https://github.com/toxicity188/BetterHud/wiki/popups#sort)
+- [duration](https://github.com/toxicity188/BetterHud/wiki/popups#duration)
+- [key-mapping](https://github.com/toxicity188/BetterHud/wiki/popups#key-mapping)
+- [x,y coord](https://github.com/toxicity188/BetterHud/wiki/popups#xy-coord)
+- [move](https://github.com/toxicity188/BetterHud/wiki/popups#move)
+  - [duration](https://github.com/toxicity188/BetterHud/wiki/popups#duration-1)
+  - [pixel](https://github.com/toxicity188/BetterHud/wiki/popups#pixel)
+
+
 ```
 monster_health:
   triggers:
