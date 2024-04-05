@@ -5,6 +5,7 @@
 - [images layout](https://github.com/toxicity188/BetterHud/wiki/layouts#images-layout)
 - [texts layout](https://github.com/toxicity188/BetterHud/wiki/layouts#texts-layout)
   - [name](https://github.com/toxicity188/BetterHud/wiki/layouts#name)
+  - [space](https://github.com/toxicity188/BetterHud/wiki/layouts#space)
   - [number-format](https://github.com/toxicity188/BetterHud/wiki/layouts#number-format)
   - [pattern](https://github.com/toxicity188/BetterHud/wiki/layouts#pattern)
   - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
@@ -89,6 +90,7 @@ text_layout:
   texts:
     1:
       name: example_font
+      space: 0
       number-format: "#,###.#"
       pattern: "Lv. [mmocore_level]"
       align: center
@@ -106,6 +108,11 @@ font is named `example_font` if you follow the documentation.
 if not specified, the default font is used.
 
 ex. `name: example_font`
+
+## space
+adjust the character spacing.
+
+default: `1`
 
 ## number-format
 automatically find and format numbers, even if they're mixed with text.
