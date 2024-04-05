@@ -11,6 +11,7 @@
   - [pixel](https://github.com/toxicity188/BetterHud/wiki/popups#pixel)
 
 
+
 ```
 monster_health:
   triggers:
@@ -40,7 +41,7 @@ There are several ways to run a popup.
 3. can use a trigger
 
 # triggers
-
+coming in the future
 
 # group
 create multiple popups as a group.
