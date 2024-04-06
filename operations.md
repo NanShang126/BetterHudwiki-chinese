@@ -26,4 +26,6 @@ when used as a PAPI variable, it is of type string, so it needs to be defined as
 ex. `[(number)papi:player_x@t * 2]`
 
 ## exception
-use '//' for the divide ('/') operator. This will be changed to '\' in the future.
+when working within a pattern in a text layout,
+
+the divide ('/') operator uses '//'. This will change to '\' in the future.
