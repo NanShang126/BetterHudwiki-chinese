@@ -8,6 +8,13 @@ need to define a placeholder.
 
 create a yml file in the placeholder folder and enter it as shown in the picture.
 
+```
+test:
+  variable: online
+  placeholder: "%server_online%"
+  update: 20
+```
+
 ![](https://i.imgur.com/e6cF0P0.png)
 
 (update is the update interval in ticks.)
