@@ -14,7 +14,7 @@ https://github.com/toxicity188/BetterHud/wiki/How-to-install
 
 ## don't see any bossbars, don't see any hud, it's clean.
 
-if you're using itemsadder, you'll need to set text-effect to false.
+if you're using itemsadder, will need to set text-effect to false.
 
 https://github.com/toxicity188/BetterHud/wiki/Caution
 
