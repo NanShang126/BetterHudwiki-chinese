@@ -8,6 +8,9 @@ will also need to reapply the resourcepack.
 
 No resourcepack were applied.
 
+if using itemsadder, do this
+
+https://github.com/toxicity188/BetterHud/wiki/How-to-install
 
 ## don't see any bossbars, don't see any hud, it's clean.
 
