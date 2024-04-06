@@ -6,7 +6,7 @@ will also need to reapply the resourcepack.
 
 ![](https://i.imgur.com/5F0IrKW.png)
 
-No resourcepack were applied.
+no resourcepack were applied.
 
 if using itemsadder, do this
 
@@ -20,7 +20,7 @@ https://github.com/toxicity188/BetterHud/wiki/Caution
 
 ## if the bossbar for enderdragon or wither pops up, the hud is out of alignment.
 
-config.yml `merge-boss-bar: false`.
+config.yml `merge-boss-bar: false`
 
 this is a specialized bossbar and cannot be resolved.
 
