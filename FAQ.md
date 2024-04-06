@@ -18,3 +18,7 @@ https://github.com/toxicity188/BetterHud/wiki/Caution
 ## if the bossbar for enderdragon or wither pops up, the hud is out of alignment.
 
 config.yml `merge-boss-bar: false`. this is a specialized bossbar and cannot be resolved.
+
+## want to use an image font that I added from somewhere like itemsadder.
+
+technically not possible.
