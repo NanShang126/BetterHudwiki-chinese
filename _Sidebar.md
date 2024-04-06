@@ -3,7 +3,7 @@
 - [Step 2. vs HappyHUD](https://github.com/toxicity188/BetterHud/wiki/vs-HappyHUD)
 - [Step 3. How to install](https://github.com/toxicity188/BetterHud/wiki/How-to-install)
 - [Step 4. Caution](https://github.com/toxicity188/BetterHud/wiki/Caution)
-
+- [FAQ](https://github.com/toxicity188/BetterHud/wiki/FAQ)
 # Tutorial
 - [Step 1. Start to make a your own HUD](https://github.com/toxicity188/BetterHud/wiki/Start-to-make-a-your-own-HUD)
 - [Step 2. Display custom text](https://github.com/toxicity188/BetterHud/wiki/Display-custom-text)
