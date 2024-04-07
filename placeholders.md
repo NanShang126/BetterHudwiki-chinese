@@ -47,7 +47,7 @@ mmocore_stat:name
 mmocore_claims
 mmocore_current_cooldown_slot:number
 mmocore_current_cooldown_skill:name
-mmocore_skill_bound_index:number
+mmocore_skill_bound_index:name
 mmocore_skill_level:name
 mmocore_class
 mmocore_guild_id
