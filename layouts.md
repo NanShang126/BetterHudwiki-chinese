@@ -154,6 +154,8 @@ whether or not to put a drop shadow on the text.
 
 if text is on top of an image, you can't show a drop shadow.
 
+however, if it has a higher layer value than the image, it will show.
+
 ex. `outline: true`
 
 ![](https://i.imgur.com/z2YJjyX.png)
