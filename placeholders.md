@@ -65,4 +65,5 @@ food
 armor
 air
 exp
+hotbar_slot
 ```
