@@ -56,6 +56,7 @@ mmocore_skill_name:name
 mmocore_is_casting_mode
 mmocore_bounded_skill:name
 mmocore_bounded_slot:number
+mmocore_required_mana_skill:name
 mythicmobs_aura_stack:name
 mythicmobs_has_aura:name
 vault_money
