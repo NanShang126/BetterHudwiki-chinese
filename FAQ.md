@@ -26,4 +26,4 @@ this is a specialized bossbar and cannot be resolved.
 
 ## want to use an glyphs that I added from somewhere like itemsadder.
 
-technically not possible.
+plan to update it at some point, but it doesn't use glyphs added by plugins like itemsadder, it adds its own.
