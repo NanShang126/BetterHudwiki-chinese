@@ -1,5 +1,4 @@
 - [triggers](https://github.com/toxicity188/BetterHud/wiki/popups#triggers)
-  - [trigger](https://github.com/toxicity188/BetterHud/wiki/popups#trigger)
   - [papi](https://github.com/toxicity188/BetterHud/wiki/popups#papi)
 - [group](https://github.com/toxicity188/BetterHud/wiki/popups#group)
 - [queue](https://github.com/toxicity188/BetterHud/wiki/popups#queue)
@@ -53,8 +52,8 @@ monster_health:
     1:
       class: entity_attack
 ```
+list of triggers is as follows and provides its own PAPI.
 
-## trigger
 entity_attack : when player attacks an entity.
 
 entity_damage : when player is damaged by an entity.
