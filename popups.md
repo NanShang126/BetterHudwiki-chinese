@@ -52,6 +52,8 @@ monster_health:
     1:
       class: entity_attack
 ```
+trigger is a feature that fires a popup when a specific action is triggered.
+
 list of triggers is as follows and provides its own PAPI.
 
 entity_attack : when player attacks an entity.
