@@ -22,3 +22,5 @@
 - [popups](https://github.com/toxicity188/BetterHud/wiki/popups)
 
 
+# Addon
+- MMOCore
