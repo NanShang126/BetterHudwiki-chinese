@@ -1,4 +1,6 @@
 - [triggers](https://github.com/toxicity188/BetterHud/wiki/popups#triggers)
+  - [trigger](https://github.com/toxicity188/BetterHud/wiki/popups#trigger)
+  - [trigger papi](https://github.com/toxicity188/BetterHud/wiki/popups#trigger-papi)
 - [group](https://github.com/toxicity188/BetterHud/wiki/popups#group)
 - [queue](https://github.com/toxicity188/BetterHud/wiki/popups#queue)
   - [always-check-condition](https://github.com/toxicity188/BetterHud/wiki/popups#always-check-condition)
@@ -45,7 +47,33 @@ There are several ways to run a popup.
 3. can use a trigger
 
 # triggers
-coming in the future
+```
+monster_health:
+  triggers:
+    1:
+      class: entity_attack
+```
+
+## trigger
+entity_attack : when player attacks an entity.
+
+entity_damage : when player is damaged by an entity.
+
+entity_kill : when player killed the entity
+
+entity_dead : when player dies
+
+## trigger papi
+trigger-only papi
+
+```
+entity_max_health
+entity_health
+entity_name
+entity_custom_name
+entity_type
+entity_dead
+```
 
 # group
 create multiple popups as a group.
