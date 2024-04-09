@@ -1,6 +1,6 @@
 - [triggers](https://github.com/toxicity188/BetterHud/wiki/popups#triggers)
   - [trigger](https://github.com/toxicity188/BetterHud/wiki/popups#trigger)
-  - [trigger papi](https://github.com/toxicity188/BetterHud/wiki/popups#trigger-papi)
+  - [papi](https://github.com/toxicity188/BetterHud/wiki/popups#papi)
 - [group](https://github.com/toxicity188/BetterHud/wiki/popups#group)
 - [queue](https://github.com/toxicity188/BetterHud/wiki/popups#queue)
   - [always-check-condition](https://github.com/toxicity188/BetterHud/wiki/popups#always-check-condition)
@@ -63,7 +63,7 @@ entity_kill : when player killed the entity
 
 entity_dead : when player dies
 
-## trigger papi
+## papi
 trigger-only papi
 
 ```
