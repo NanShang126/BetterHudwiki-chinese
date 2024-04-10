@@ -38,7 +38,7 @@ example_font:
       y: 0
       scale: 2.0
 ```
-can add an image with this feel and then use it in the same way as <image:star> in a text layout pattern.
+can add an image with this feel and then use it in the same way as `<image:star>` in a text layout pattern.
 
 # how to change the first bossbar font
 1. font.yml `merge-default-bitmap: false`
