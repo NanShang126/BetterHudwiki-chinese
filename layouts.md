@@ -133,7 +133,7 @@ ex. `pattern: "Lv. [mmocore_level]"`
 
 can also embed images in your text. [fonts documentation](https://github.com/toxicity188/BetterHud/wiki/fonts)
 
-![](https://i.imgur.com/2sTeigU.gif)
+![](https://i.imgur.com/3OEPBXW.png)
 
 ***
 and you can add color and text formatting.
