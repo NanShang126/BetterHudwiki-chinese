@@ -11,6 +11,8 @@
   - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
   - [outline](https://github.com/toxicity188/BetterHud/wiki/layouts#outline)
   - [deserialize-text](https://github.com/toxicity188/BetterHud/wiki/layouts#deserialize-text)
+  - background
+  - background-scale
 - [heads layout](https://github.com/toxicity188/BetterHud/wiki/layouts#heads-layout)
 - [animations](https://github.com/toxicity188/BetterHud/wiki/layouts#animations)
 
@@ -172,6 +174,10 @@ ex. `outline: true`
 this is an option to rework and colorize when color codes are injected from external elements, such as PAPI, for example.
 
 default: `false`
+
+## background
+
+## background-scale
 
 # heads layout
 [heads](https://github.com/toxicity188/BetterHud/wiki/heads)
