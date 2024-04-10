@@ -173,6 +173,11 @@ ex. `outline: true`
 ![](https://i.imgur.com/z2YJjyX.png)
 
 ## deserialize-text
+Caution
+```
+using this option may cause problems in normal use.
+use it only when you need to intervene externally. ex.skript
+```
 this is an option to rework and colorize when color codes are injected from external elements, such as PAPI, for example.
 
 default: `false`
