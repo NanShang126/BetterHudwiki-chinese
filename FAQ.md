@@ -23,7 +23,3 @@ https://github.com/toxicity188/BetterHud/wiki/Caution
 config.yml `merge-boss-bar: false`
 
 this is a specialized bossbar and cannot be resolved.
-
-## want to use an glyphs that I added from somewhere like itemsadder.
-
-plan to update it at some point, but it doesn't use glyphs added by plugins like itemsadder, it adds its own.
