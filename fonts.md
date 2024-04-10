@@ -33,7 +33,7 @@ example_font:
   scale: 16
   images:
     star:
-      name: "text/star.png"
+      name: "star.png"
       x: 0
       y: 0
       scale: 2.0
