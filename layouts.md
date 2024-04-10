@@ -129,7 +129,12 @@ define the text to display.
 [PAPI](https://github.com/toxicity188/BetterHud/wiki/placeholders) can be used, and can be mixed with plain text.
 
 ex. `pattern: "Lv. [mmocore_level]"`
+***
 
+
+https://github.com/toxicity188/BetterHud/wiki/fonts
+
+***
 and you can add color and text formatting.
 
 color type : `<#hex>, <black>, <gold>, <gray>, <blue>, <green>, <aqua>, <red>, <yellow>, <white>`
