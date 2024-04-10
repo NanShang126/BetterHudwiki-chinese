@@ -173,7 +173,7 @@ ex. `outline: true`
 ![](https://i.imgur.com/z2YJjyX.png)
 
 ## deserialize-text
-<Caution>
+**Caution**
 using this option may cause problems in normal use.
 
 use it only when you need to intervene externally. ex.`skript`
