@@ -18,6 +18,28 @@ example_font:
   scale: 16
 ```
 
+## use minecraft font
+Note: this mimics the Minecraft default font and does not use the default font, so you cannot use image fonts such as glyphs.
+```
+default_font:
+  scale: 16
+  merge-default-bitmap: true
+```
+
+## how to add a glyph
+```
+example_font:
+  file: example.ttf
+  scale: 16
+  images:
+    star:
+      name: "text/star.png"
+      x: 0
+      y: 0
+      scale: 2.0
+```
+can add an image with this feel and then use it in the same way as <image:star> in a text layout pattern.
+
 # how to change the first bossbar font
 1. font.yml `merge-default-bitmap: false`
 
