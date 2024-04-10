@@ -174,6 +174,7 @@ ex. `outline: true`
 
 ## deserialize-text
 **Caution**
+
 using this option may cause problems in normal use.
 
 use it only when you need to intervene externally. ex.`skript`
