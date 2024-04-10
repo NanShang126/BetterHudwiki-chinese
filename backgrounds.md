@@ -24,6 +24,8 @@ backgrounds
 2. put left.png , body.png, right.png into a folder.
 3. rest is set in [layout documentation](https://github.com/toxicity188/BetterHud/wiki/layouts#background)
 
+
+***
 organization of a yml file is simple.
 
 example1.yml
