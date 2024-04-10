@@ -178,6 +178,16 @@ this is an option to rework and colorize when color codes are injected from exte
 default: `false`
 
 ## background
+```
+text_layout:
+  texts:
+    1:
+      ...
+      background: example1
+      background-scale: 0.6
+```
+see the [backgrounds documentation](https://github.com/toxicity188/BetterHud/wiki/backgrounds) for how to set this up first.
+
 
 ## background-scale
 adjust the scale of the background.
