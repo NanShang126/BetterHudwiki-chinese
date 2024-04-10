@@ -11,8 +11,8 @@
   - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
   - [outline](https://github.com/toxicity188/BetterHud/wiki/layouts#outline)
   - [deserialize-text](https://github.com/toxicity188/BetterHud/wiki/layouts#deserialize-text)
-  - background
-  - background-scale
+  - [background](https://github.com/toxicity188/BetterHud/wiki/layouts#background)
+  - [background-scale](https://github.com/toxicity188/BetterHud/wiki/layouts#background-scale)
 - [heads layout](https://github.com/toxicity188/BetterHud/wiki/layouts#heads-layout)
 - [animations](https://github.com/toxicity188/BetterHud/wiki/layouts#animations)
 
@@ -101,6 +101,8 @@ text_layout:
       scale: 0.5
       outline: true
       deserialize-text: true
+      background: test
+      background-scale: 0.6
 ```
 ## name
 specifies the [font](https://github.com/toxicity188/BetterHud/wiki/fonts) to use.
@@ -178,6 +180,9 @@ default: `false`
 ## background
 
 ## background-scale
+adjust the scale of the background.
+
+default: `1`
 
 # heads layout
 [heads](https://github.com/toxicity188/BetterHud/wiki/heads)
