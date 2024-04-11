@@ -24,4 +24,4 @@
 
 
 # Addon
-- BetterHUDMMOCore
+- BetterHud-MMOCore
