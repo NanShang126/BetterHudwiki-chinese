@@ -109,8 +109,6 @@ specifies the [font](https://github.com/toxicity188/BetterHud/wiki/fonts) to use
 
 font is named `example_font` if you follow the documentation.
 
-if not specified, the default font is used.
-
 ex. `name: example_font`
 
 ## space
