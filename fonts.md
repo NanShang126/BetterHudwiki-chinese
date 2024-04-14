@@ -19,7 +19,7 @@ example_font:
 ```
 
 ## use minecraft font
-Note: this mimics the Minecraft default font and does not use the default font, so you cannot use image fonts such as glyphs.
+Note: this mimics the Minecraft default font and does not use the default font, so you cannot use image fonts such as glyphs added by plugins like itemsadder.
 ```
 default_font:
   scale: 16
