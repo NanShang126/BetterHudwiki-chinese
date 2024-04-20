@@ -1,4 +1,3 @@
-this feature is not supported for offline servers.
 
 # how to bring your head to the hud
 create a yml file in your heads folder and enter it like this.
