@@ -140,6 +140,11 @@ can also embed images in your text. [fonts documentation](https://github.com/tox
 ![](https://i.imgur.com/3OEPBXW.png)
 
 ***
+can import variables from the skript.
+The player uses the syntax 'hud player'.
+
+ex. `[skript_variable:%{test::%uuid of hud player%}%]`
+***
 and you can add color and text formatting.
 
 color type : `<#hex>, <black>, <gold>, <gray>, <blue>, <green>, <aqua>, <red>, <yellow>, <white>`
@@ -149,6 +154,7 @@ format type : `bold <b>, obfuscated <obf>`
 ![](https://i.imgur.com/rBn9ONM.png)
 
 ![](https://i.imgur.com/SEFS5XA.png)
+
 
 ## align
 this refers to how the text should be aligned.
