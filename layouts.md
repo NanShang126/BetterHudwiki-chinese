@@ -141,9 +141,11 @@ can also embed images in your text. [fonts documentation](https://github.com/tox
 
 ***
 can import variables from the skript.
+
 The player uses the syntax 'hud player'.
 
 ex. `[skript_variable:%{test::%uuid of hud player%}%]`
+
 ***
 and you can add color and text formatting.
 
