@@ -160,9 +160,7 @@ format type : `bold <b>, obfuscated <obf>`
 ![](https://i.imgur.com/SEFS5XA.png)
 
 ## follow
-If the player's name is returned as a PAPI,
-
-it will get the entered player's information for all PAPIs used in that layout.
+If the player's name is returned as a PAPI, get the entered player's information for all PAPIs (pattern, conditions, etc.) used in that layout.
 
 ex. `follow: parties_member_exclude_mine:1`
 
