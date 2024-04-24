@@ -216,6 +216,10 @@ default: `1`
 
 # heads layout
 [heads](https://github.com/toxicity188/BetterHud/wiki/heads)
+## follow
+If a player's name is returned to the PAPI, display that player's face.
+
+ex. `follow: parties_member_exclude_mine:1`
 
 # animations
 animations can basically be organized by math formulas and use the exp4j library.
