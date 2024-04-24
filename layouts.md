@@ -8,6 +8,7 @@
   - [space](https://github.com/toxicity188/BetterHud/wiki/layouts#space)
   - [number-format](https://github.com/toxicity188/BetterHud/wiki/layouts#number-format)
   - [pattern](https://github.com/toxicity188/BetterHud/wiki/layouts#pattern)
+  - [follow](https://github.com/toxicity188/BetterHud/wiki/layouts#follow)
   - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
   - [outline](https://github.com/toxicity188/BetterHud/wiki/layouts#outline)
   - [deserialize-text](https://github.com/toxicity188/BetterHud/wiki/layouts#deserialize-text)
@@ -95,6 +96,7 @@ text_layout:
       space: 0
       number-format: "#,###.#"
       pattern: "Lv. [mmocore_level]"
+      #follow: parties_member_exclude_mine:1
       align: center
       x: 10
       y: -10
@@ -157,6 +159,12 @@ format type : `bold <b>, obfuscated <obf>`
 
 ![](https://i.imgur.com/SEFS5XA.png)
 
+## follow
+If the player's name is returned as a PAPI,
+
+it will get the entered player's information for all PAPIs used in that layout.
+
+ex. `follow: parties_member_exclude_mine:1`
 
 ## align
 this refers to how the text should be aligned.
