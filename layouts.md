@@ -216,7 +216,7 @@ adjust the scale of the background.
 default: `1`
 
 # heads layout
-[heads](https://github.com/toxicity188/BetterHud/wiki/heads)
+[heads documentation](https://github.com/toxicity188/BetterHud/wiki/heads)
 ## follow
 If a player's name is returned to the PAPI, display that player's face.
 
