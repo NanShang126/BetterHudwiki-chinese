@@ -15,6 +15,7 @@
   - [background](https://github.com/toxicity188/BetterHud/wiki/layouts#background)
   - [background-scale](https://github.com/toxicity188/BetterHud/wiki/layouts#background-scale)
 - [heads layout](https://github.com/toxicity188/BetterHud/wiki/layouts#heads-layout)
+  - [follow](https://github.com/toxicity188/BetterHud/wiki/layouts#follow-1)
 - [animations](https://github.com/toxicity188/BetterHud/wiki/layouts#animations)
 
 layout is a grouping of text and images.
