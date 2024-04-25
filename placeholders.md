@@ -32,6 +32,15 @@ if you can, this is the most recommended method.
 ex. [health] [mmocore-exp] ...
 
 ```
+[default]
+health
+food
+armor
+air
+exp
+hotbar_slot
+
+[MMOCore]
 mmocore_mana
 mmocore_max_mana
 mmocore_stamina
@@ -59,15 +68,21 @@ mmocore_bounded_slot:number
 mmocore_required_mana_skill:name
 mmocore_required_stamina_skill:name
 mmocore_casting_slot:name
+
+[skript]
 [skript_variable:%{test::%uuid of hud player%}%]
+
+[mythicmobs]
 mythicmobs_aura_stack:name
 mythicmobs_has_aura:name
+
+[vault]
 vault_money
+
+[worldguard]
 worldguard_in_region:name
-health
-food
-armor
-air
-exp
-hotbar_slot
+
+[parties]
+parties_member_exclude_mine:number
+
 ```
