@@ -12,7 +12,7 @@ see the layouts documentation for instructions on how to use it.
 ![](https://i.imgur.com/r9TLnQR.png)
 
 3. enter the following
-```
+``` yaml
 example_font:
   file: example.ttf
   scale: 16
@@ -20,14 +20,14 @@ example_font:
 
 ## use minecraft font
 Note: this mimics the Minecraft default font and does not use the default font, so you cannot use image fonts such as glyphs added by plugins like itemsadder.
-```
+``` yaml
 default_font:
   scale: 16
   merge-default-bitmap: true
 ```
 
 ## how to add a glyph
-```
+``` yaml
 example_font:
   file: example.ttf
   scale: 16
@@ -47,7 +47,7 @@ can add an image with this feel and then use it in the same way as `<image:star>
 ![](https://i.imgur.com/6BzNqrc.png)
 
 ## Use minecraft unifont
-```
+``` yaml
 font:
   file: some_name
   use-unifont: true
