@@ -46,8 +46,16 @@ can add an image with this feel and then use it in the same way as `<image:star>
 2. place the font file in the betterhud plugin folder and modify the font name in config.yml.
 ![](https://i.imgur.com/6BzNqrc.png)
 
-## Exclude other languages
+## Use minecraft unifont
+```
+font:
+  file: some_name
+  use-unifont: true
+```
+you can use minecraft default unifont by using this configuration.
 
+## Exclude other languages
+``` yaml
 scale: 16
 height: 8
 ascent: 7
@@ -55,4 +63,17 @@ merge-default-bitmap: true
 use-unifont: true
 include:
 - korean
+```
+if you want to reduce your resource pack size, you can nominate some language by using "include" configuration.
+Latin alphabet always be included, and there are other language like this:
 
+- korean
+- japan
+- china
+- russia
+- bengal
+- thailand
+- greece
+- hindi
+- arab
+- hebrew
