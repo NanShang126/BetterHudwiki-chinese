@@ -13,6 +13,7 @@ test:
   variable: online
   placeholder: "%server_online%"
   update: 20
+  async: false
 ```
 
 ![](https://i.imgur.com/e6cF0P0.png)
