@@ -45,3 +45,14 @@ can add an image with this feel and then use it in the same way as `<image:star>
 
 2. place the font file in the betterhud plugin folder and modify the font name in config.yml.
 ![](https://i.imgur.com/6BzNqrc.png)
+
+## Exclude other languages
+
+scale: 16
+height: 8
+ascent: 7
+merge-default-bitmap: true
+use-unifont: true
+include:
+- korean
+
