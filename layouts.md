@@ -132,7 +132,9 @@ default : config.yml - `number-format: "#,###.#"`
 
 ## disable-number-format
 does not use number-format.
+
 if it true, '0.###' is used.
+
 'false' is recommended if possible. -editor-
 
 default: `true`
