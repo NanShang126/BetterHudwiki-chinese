@@ -7,6 +7,7 @@
   - [name](https://github.com/toxicity188/BetterHud/wiki/layouts#name)
   - [space](https://github.com/toxicity188/BetterHud/wiki/layouts#space)
   - [number-format](https://github.com/toxicity188/BetterHud/wiki/layouts#number-format)
+  - [disable-number-format](https://github.com/toxicity188/BetterHud/wiki/layouts#disable-number-format)
   - [pattern](https://github.com/toxicity188/BetterHud/wiki/layouts#pattern)
   - [follow](https://github.com/toxicity188/BetterHud/wiki/layouts#follow)
   - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
@@ -96,6 +97,7 @@ text_layout:
       name: example_font
       space: 0
       number-format: "#,###.#"
+      disable-number-format: false
       pattern: "Lv. [mmocore_level]"
       #follow: parties_member_exclude_mine:1
       align: center
@@ -127,6 +129,13 @@ DecimalFormat, see the wiki for more information.
 https://docs.oracle.com/javase/8/docs/api/java/text/DecimalFormat.html
 
 default : config.yml - `number-format: "#,###.#"`
+
+## disable-number-format
+does not use number-format.
+if it true, '0.###' is used.
+'false' is recommended if possible. -editor-
+
+default: `true`
 
 ## pattern
 define the text to display.
