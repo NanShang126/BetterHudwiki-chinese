@@ -7,7 +7,7 @@ structure of the backgrounds folder looks like this
 
 ```
 backgrounds
-└── example.yml
+└── example1.yml
     └── example1
         └── left.png
         └── body.png
