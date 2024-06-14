@@ -28,4 +28,4 @@ ex. `[(number)papi:player_x@t * 2]`
 ## exception
 when working within a pattern in a text layout,
 
-the divide ('/') operator uses '//'. This will change to '\' in the future.
+the divide ('/') operator uses '//'.
