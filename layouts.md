@@ -229,7 +229,7 @@ default: `1`
 # heads layout
 [heads documentation](https://github.com/toxicity188/BetterHud/wiki/heads)
 ## follow
-If a player's name is returned to the PAPI, display that player's face.
+If a player's name is returned to the PAPI, display that player's head.
 
 ex. `follow: parties_member_exclude_mine:1`
 
