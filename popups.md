@@ -1,6 +1,7 @@
 - [triggers](https://github.com/toxicity188/BetterHud/wiki/popups#triggers)
   - [papi](https://github.com/toxicity188/BetterHud/wiki/popups#papi)
 - [group](https://github.com/toxicity188/BetterHud/wiki/popups#group)
+- [unique](https://github.com/toxicity188/BetterHud/wiki/popups#unique)
 - [queue](https://github.com/toxicity188/BetterHud/wiki/popups#queue)
   - [always-check-condition](https://github.com/toxicity188/BetterHud/wiki/popups#always-check-condition)
 - [sort](https://github.com/toxicity188/BetterHud/wiki/popups#sort)
@@ -23,6 +24,7 @@ monster_health:
     1:
       class: entity_attack
   group: mob_group
+  unique: true # dfeault: false
   queue: true # default: false
   always-check-condition: false # default: true
   sort: first # types: last/first , default: last
@@ -87,6 +89,10 @@ ex. `group: skill`
 
 ![](https://i.imgur.com/jvkTS02.png)
 
+# unique
+Avoid duplicate popups.
+
+default: `false`
 
 # queue
 whether to save out-of-queue popups
