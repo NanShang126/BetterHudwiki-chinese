@@ -25,6 +25,8 @@ default_font:
   scale: 16
   merge-default-bitmap: true
 ```
+If use the default font, can't use glyphs.
+
 
 ## how to add a glyph
 ``` yaml
