@@ -181,6 +181,7 @@ To do something like this photo
 ```
 buff_absorption:
   group: buff
+  unique: true
   layouts:
     1:
       name: buff_absorption
