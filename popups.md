@@ -24,7 +24,7 @@ monster_health:
     1:
       class: entity_attack
   group: mob_group
-  unique: true # dfeault: false
+  unique: true # default: false
   queue: true # default: false
   always-check-condition: false # default: true
   sort: first # types: last/first , default: last
