@@ -8,6 +8,7 @@
   - [space](https://github.com/toxicity188/BetterHud/wiki/layouts#space)
   - [number-format](https://github.com/toxicity188/BetterHud/wiki/layouts#number-format)
   - [disable-number-format](https://github.com/toxicity188/BetterHud/wiki/layouts#disable-number-format)
+  - use-legacy-serializer
   - [pattern](https://github.com/toxicity188/BetterHud/wiki/layouts#pattern)
   - [follow](https://github.com/toxicity188/BetterHud/wiki/layouts#follow)
   - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
@@ -98,6 +99,7 @@ text_layout:
       space: 0
       number-format: "#,###.#"
       disable-number-format: false
+      use-legacy-serializer: false
       pattern: "Lv. [mmocore_level]"
       #follow: parties_member_exclude_mine:1
       align: center
@@ -136,6 +138,17 @@ does not use number-format.
 if it true, '0.###' is used.
 
 'false' is recommended if possible. -editor-
+
+default: `true`
+
+## use-legacy-serializer
+use legacy formatting.
+
+ex. `&aTest`
+
+if false, it is used as a text component base.
+
+ex. `<gold><b>Test`
 
 default: `true`
 
