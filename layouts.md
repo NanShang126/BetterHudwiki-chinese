@@ -8,7 +8,7 @@
   - [space](https://github.com/toxicity188/BetterHud/wiki/layouts#space)
   - [number-format](https://github.com/toxicity188/BetterHud/wiki/layouts#number-format)
   - [disable-number-format](https://github.com/toxicity188/BetterHud/wiki/layouts#disable-number-format)
-  - [use-legacy-serializer](https://github.com/toxicity188/BetterHud/wiki/layouts#use-legacy-serializer)
+  - [use-legacy-format](https://github.com/toxicity188/BetterHud/wiki/layouts#use-legacy-format)
   - [pattern](https://github.com/toxicity188/BetterHud/wiki/layouts#pattern)
   - [follow](https://github.com/toxicity188/BetterHud/wiki/layouts#follow)
   - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
@@ -141,7 +141,7 @@ if it true, '0.###' is used.
 
 default: `true`
 
-## use-legacy-serializer
+## use-legacy-format
 use legacy formatting.
 
 ex. `&aTest`
