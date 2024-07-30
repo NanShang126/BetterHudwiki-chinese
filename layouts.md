@@ -8,7 +8,7 @@
   - [space](https://github.com/toxicity188/BetterHud/wiki/layouts#space)
   - [number-format](https://github.com/toxicity188/BetterHud/wiki/layouts#number-format)
   - [disable-number-format](https://github.com/toxicity188/BetterHud/wiki/layouts#disable-number-format)
-  - use-legacy-serializer
+  - [use-legacy-serializer](https://github.com/toxicity188/BetterHud/wiki/layouts#use-legacy-serializer)
   - [pattern](https://github.com/toxicity188/BetterHud/wiki/layouts#pattern)
   - [follow](https://github.com/toxicity188/BetterHud/wiki/layouts#follow)
   - [align](https://github.com/toxicity188/BetterHud/wiki/layouts#align)
