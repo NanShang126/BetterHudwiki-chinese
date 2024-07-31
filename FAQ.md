@@ -23,3 +23,11 @@ https://github.com/toxicity188/BetterHud/wiki/Caution
 config.yml `merge-boss-bar: false`
 
 this is a specialized bossbar and cannot be resolved.
+
+## Optimize resourcepack
+
+1. config.yml `load-minecraft-default-textures: false`
+
+2. font.yml (if don't use default font) `scale: 1`
+
+3. minimize the type of font use
