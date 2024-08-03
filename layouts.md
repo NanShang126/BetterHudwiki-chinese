@@ -99,7 +99,7 @@ text_layout:
       space: 0
       number-format: "#,###.#"
       disable-number-format: false
-      use-legacy-serializer: false
+      use-legacy-format: false
       pattern: "Lv. [mmocore_level]"
       #follow: parties_member_exclude_mine:1
       align: center
