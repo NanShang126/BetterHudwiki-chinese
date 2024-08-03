@@ -27,6 +27,7 @@ this is a specialized bossbar and cannot be resolved.
 ## Optimize resourcepack
 
 1. config.yml(if dont't use shader.yml hotbar.disable: true)
+
 `load-minecraft-default-textures: false`
 
 2. font.yml (if don't use default font) `scale: 1`
