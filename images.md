@@ -45,11 +45,11 @@ more you split, the more detail you can display, but it also increases the resou
 
 ## split-type
 
-types: up, down, left, right, circle
+types: up, down, left, right, circle, reverse_circle
 
 they decrease in the direction shown in the photo below.
 
-![](https://i.imgur.com/dGZMgZ4.png)
+![](https://i.imgur.com/o2fa9EF.png)
 
 
 ## class (default)
