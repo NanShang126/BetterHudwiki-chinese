@@ -49,7 +49,7 @@ types: up, down, left, right, circle
 
 they decrease in the direction shown in the photo below.
 
-![](https://i.imgur.com/y0pyDB6.png)
+![](https://i.imgur.com/dGZMgZ4.png)
 
 
 ## class (default)
