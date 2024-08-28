@@ -8,6 +8,7 @@ layout:
           first: (number)papi:player_x
           second: 1
           operation: '>='
+          gate: or
 ```
 can use it almost anywhere: images, layouts (text layout, image layout), popups, huds, etc.
 
@@ -19,6 +20,12 @@ types: '>', '>=', '<', '<=', '==', '!='
 only '==', '!=' are available for string types.
 
 comparison works like this `first >= second`
+
+# gate
+types: and , or
+`default: and`
+
+sets the method of the condition.
 
 # caution
 ## number text
