@@ -19,7 +19,7 @@
 - [heads layout](https://github.com/toxicity188/BetterHud/wiki/layouts#heads-layout)
   - [follow](https://github.com/toxicity188/BetterHud/wiki/layouts#follow-1)
 - [animations](https://github.com/toxicity188/BetterHud/wiki/layouts#animations)
-
+  - [type](https://github.com/toxicity188/BetterHud/wiki/layouts#type)
 layout is a grouping of text and images.
 
 it can be used in a hud or popup and has three different layouts.
