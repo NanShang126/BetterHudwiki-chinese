@@ -259,7 +259,15 @@ example_layout:
     1:
       name: image_id
   animations:
+    type: play_once
     duration: 60
     x-equation: 0
     y-equation: 3cos(t/30 * pi)
 ```
+
+## type
+types: loop, play_once
+
+`default: loop`
+
+when set to play_once, it will only run once.
