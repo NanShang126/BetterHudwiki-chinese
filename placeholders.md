@@ -4,6 +4,8 @@ there are PAPI that work sync and PAPI that work with async 1 tick locks.
 this method can cause memory leaks depending on how the plugin providing the PAPI handles it.
 
 ## sync PAPI
+**It was originally sync, but now works async.**
+
 need to define a placeholder.
 
 create a yml file in the placeholder folder and enter it as shown in the picture.
@@ -13,7 +15,6 @@ test:
   variable: online
   placeholder: "%server_online%"
   update: 20
-  async: false
 ```
 
 ![](https://i.imgur.com/e6cF0P0.png)
