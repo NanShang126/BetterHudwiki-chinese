@@ -8,6 +8,8 @@ will also need to reapply the resourcepack.
 
 no resourcepack were applied.
 
+resourcepack path for BetterhHud is `BetterhHud/build`
+
 if using itemsadder, do this
 
 https://github.com/toxicity188/BetterHud/wiki/How-to-install
