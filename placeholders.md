@@ -51,8 +51,8 @@ mmocore_stellium
 mmocore_max_stellium
 mmocore_party_member_count
 mmocore_guild_member_count
-mmocore_exp
-mmocore_max_exp
+mmocore_experience
+mmocore_max_experience
 mmocore_level
 mmocore_stat:name
 mmocore_claims
